@@ -1,0 +1,11 @@
+Product: WidgetPro 3000
+- Battery Life: 12 hours
+- Weight: 1.2kg
+- Warranty: 2 years
+- Connectivity: Wi-Fi, Bluetooth 5.0
+
+Product: GadgetLite
+- Battery Life: 8 hours
+- Weight: 0.8kg
+- Warranty: 1 year
+- Connectivity: Wi-Fi only
